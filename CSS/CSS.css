@@ -185,6 +185,9 @@ iframe {
   .my-card:nth-child(3n) {
       margin-right: 0px;
   }
+    .footer {
+    width: 100%;
+    }
   }
   
   .my-card:hover {
