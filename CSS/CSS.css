@@ -149,7 +149,7 @@ iframe {
 }
 
 
-@media(max-width: 768px) {
+/* @media(max-width: 768px) {
   .my-card {
       width: calc((100% - 20px) / 2)
   }
@@ -162,7 +162,7 @@ iframe {
       margin-right: 0;
   }
   
-}
+} */
 
  @media (max-width: 1200px) {
   .in {
