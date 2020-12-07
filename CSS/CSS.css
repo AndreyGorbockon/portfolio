@@ -177,7 +177,7 @@ iframe {
 }
 
 
-@media(max-width: 480px) {
+/* @media(max-width: 480px) {
   .my-card{
       width: 100%;
       margin-right: 0;
@@ -188,7 +188,8 @@ iframe {
     .footer {
     width: 100%;
     }
-  }
+  } */
+}
   
   .my-card:hover {
       box-shadow: 0 0 50px rgba(0,0,0,.3);
